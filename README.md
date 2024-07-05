@@ -14,7 +14,7 @@
   <h3 align="center">Modern UI/UX website</h3>
 </div>
 
-## 📋 <a name="table">Table of Contents</a>
+## <a name="table">Table of Contents</a>
 
 1.  [Introduction](#introduction)
 2. [Tech Stack](#tech-stack)
